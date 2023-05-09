@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\bin\Debug\net7.0\04-interfaces_ICloneable.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\bin\Debug\net7.0\04-interfaces_ICloneable.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\bin\Debug\net7.0\04-interfaces_ICloneable.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\bin\Debug\net7.0\04-interfaces_ICloneable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\bin\Debug\net7.0\04-interfaces_ICloneable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\refint\04-interfaces_ICloneable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\04-interfaces_ICloneable.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\04-interfaces_ICloneable\obj\Debug\net7.0\ref\04-interfaces_ICloneable.dll
