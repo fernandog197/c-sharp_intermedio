@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\bin\Debug\net7.0\05-interfaces_IComparable.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\bin\Debug\net7.0\05-interfaces_IComparable.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\bin\Debug\net7.0\05-interfaces_IComparable.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\bin\Debug\net7.0\05-interfaces_IComparable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\bin\Debug\net7.0\05-interfaces_IComparable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\refint\05-interfaces_IComparable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\05-interfaces_IComparable.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\05-interfaces_IComparable\obj\Debug\net7.0\ref\05-interfaces_IComparable.dll
