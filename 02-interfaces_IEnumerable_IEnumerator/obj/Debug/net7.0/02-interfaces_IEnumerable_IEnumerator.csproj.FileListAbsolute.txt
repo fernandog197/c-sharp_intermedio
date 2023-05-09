@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\bin\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\bin\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\bin\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\bin\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\bin\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\refint\02-interfaces_IEnumerable_IEnumerator.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\02-interfaces_IEnumerable_IEnumerator.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\02-interfaces_IEnumerable_IEnumerator\obj\Debug\net7.0\ref\02-interfaces_IEnumerable_IEnumerator.dll
