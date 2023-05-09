@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\bin\Debug\net7.0\06-interfaces_callbacks_sink.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\bin\Debug\net7.0\06-interfaces_callbacks_sink.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\bin\Debug\net7.0\06-interfaces_callbacks_sink.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\bin\Debug\net7.0\06-interfaces_callbacks_sink.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\bin\Debug\net7.0\06-interfaces_callbacks_sink.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\refint\06-interfaces_callbacks_sink.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\06-interfaces_callbacks_sink.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\06-interfaces_callbacks_sink\obj\Debug\net7.0\ref\06-interfaces_callbacks_sink.dll
