@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\bin\Debug\net7.0\09-delegados-handlers_multiples.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\bin\Debug\net7.0\09-delegados-handlers_multiples.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\bin\Debug\net7.0\09-delegados-handlers_multiples.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\bin\Debug\net7.0\09-delegados-handlers_multiples.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\bin\Debug\net7.0\09-delegados-handlers_multiples.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\refint\09-delegados-handlers_multiples.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\09-delegados-handlers_multiples.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\09-delegados-handlers_multiples\obj\Debug\net7.0\ref\09-delegados-handlers_multiples.dll
