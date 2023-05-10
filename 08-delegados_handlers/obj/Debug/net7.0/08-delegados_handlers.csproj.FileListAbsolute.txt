@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\bin\Debug\net7.0\08-delegados_handlers.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\bin\Debug\net7.0\08-delegados_handlers.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\bin\Debug\net7.0\08-delegados_handlers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\bin\Debug\net7.0\08-delegados_handlers.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\bin\Debug\net7.0\08-delegados_handlers.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\refint\08-delegados_handlers.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\08-delegados_handlers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\08-delegados_handlers\obj\Debug\net7.0\ref\08-delegados_handlers.dll
