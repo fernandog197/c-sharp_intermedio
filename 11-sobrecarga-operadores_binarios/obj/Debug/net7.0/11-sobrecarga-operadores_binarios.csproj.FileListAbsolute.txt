@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\bin\Debug\net7.0\11-sobrecarga-operadores_binarios.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\bin\Debug\net7.0\11-sobrecarga-operadores_binarios.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\bin\Debug\net7.0\11-sobrecarga-operadores_binarios.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\bin\Debug\net7.0\11-sobrecarga-operadores_binarios.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\bin\Debug\net7.0\11-sobrecarga-operadores_binarios.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\refint\11-sobrecarga-operadores_binarios.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\11-sobrecarga-operadores_binarios.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\11-sobrecarga-operadores_binarios\obj\Debug\net7.0\ref\11-sobrecarga-operadores_binarios.dll
