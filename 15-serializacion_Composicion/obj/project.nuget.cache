@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xv3nmcOIVT5vPNwy5nWw2TP6kSpkj7UrU4xaQk0/xWWfKDvjVDOYuqARGsVO9rchRcqeHTqQiqF1b8+q6lcgNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\proyectos-programacion\\c-sharp\\c-sharp_intermedio\\15-serializacion_Composicion\\15-serializacion_Composicion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

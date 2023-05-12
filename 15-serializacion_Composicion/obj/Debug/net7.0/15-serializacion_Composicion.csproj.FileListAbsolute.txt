@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\15-serializacion_Composicion.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\15-serializacion_Composicion.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\15-serializacion_Composicion.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\15-serializacion_Composicion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\15-serializacion_Composicion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\bin\Debug\net7.0\SoapFormatter.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\refint\15-serializacion_Composicion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\15-serializacion_Composicion.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\15-serializacion_Composicion\obj\Debug\net7.0\ref\15-serializacion_Composicion.dll
