@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\bin\Debug\net7.0\14-serializacion_XML.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\bin\Debug\net7.0\14-serializacion_XML.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\bin\Debug\net7.0\14-serializacion_XML.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\bin\Debug\net7.0\14-serializacion_XML.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\bin\Debug\net7.0\14-serializacion_XML.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\refint\14-serializacion_XML.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\14-serializacion_XML.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\14-serializacion_XML\obj\Debug\net7.0\ref\14-serializacion_XML.dll
