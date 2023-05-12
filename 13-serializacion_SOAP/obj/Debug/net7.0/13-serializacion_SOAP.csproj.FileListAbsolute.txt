@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\13-serializacion_SOAP.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\13-serializacion_SOAP.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\13-serializacion_SOAP.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\13-serializacion_SOAP.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\13-serializacion_SOAP.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\bin\Debug\net7.0\SoapFormatter.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\refint\13-serializacion_SOAP.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\13-serializacion_SOAP.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\13-serializacion_SOAP\obj\Debug\net7.0\ref\13-serializacion_SOAP.dll

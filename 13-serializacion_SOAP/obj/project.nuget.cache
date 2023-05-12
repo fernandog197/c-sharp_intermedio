@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvVlaLXqh0uMSX75WpZCaReP4SCPsd2SUZ76OToAeNB6TZmCYWl3k4E8UjP5gj42JJE3z/2OaE8hY4MgofUjVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\proyectos-programacion\\c-sharp\\c-sharp_intermedio\\13-serializacion_SOAP\\13-serializacion_SOAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
