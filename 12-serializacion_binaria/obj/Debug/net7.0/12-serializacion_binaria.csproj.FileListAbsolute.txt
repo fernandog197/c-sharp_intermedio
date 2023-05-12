@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\12-serializacion_binaria\obj\Debug\net7.0\12-serializacion_binaria.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\12-serializacion_binaria\obj\Debug\net7.0\12-serializacion_binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\12-serializacion_binaria\obj\Debug\net7.0\12-serializacion_binaria.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\12-serializacion_binaria\obj\Debug\net7.0\12-serializacion_binaria.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\12-serializacion_binaria\obj\Debug\net7.0\12-serializacion_binaria.csproj.CoreCompileInputs.cache
