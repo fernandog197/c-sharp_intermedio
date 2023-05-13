@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pruebas/1.0.0": {
+        "dependencies": {
+          "Operaciones": "1.0.0"
+        },
+        "runtime": {
+          "pruebas.dll": {}
+        }
+      },
+      "Operaciones/1.0.0": {
+        "runtime": {
+          "Operaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
