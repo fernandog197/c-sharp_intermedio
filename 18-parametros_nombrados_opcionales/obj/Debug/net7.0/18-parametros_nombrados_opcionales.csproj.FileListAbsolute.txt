@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\bin\Debug\net7.0\18-parametros_nombrados_opcionales.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\bin\Debug\net7.0\18-parametros_nombrados_opcionales.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\bin\Debug\net7.0\18-parametros_nombrados_opcionales.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\bin\Debug\net7.0\18-parametros_nombrados_opcionales.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\bin\Debug\net7.0\18-parametros_nombrados_opcionales.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\refint\18-parametros_nombrados_opcionales.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\18-parametros_nombrados_opcionales.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\18-parametros_nombrados_opcionales\obj\Debug\net7.0\ref\18-parametros_nombrados_opcionales.dll
