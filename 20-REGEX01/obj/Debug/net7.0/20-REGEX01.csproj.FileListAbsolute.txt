@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\bin\Debug\net7.0\20-REGEX01.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\bin\Debug\net7.0\20-REGEX01.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\bin\Debug\net7.0\20-REGEX01.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\bin\Debug\net7.0\20-REGEX01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\bin\Debug\net7.0\20-REGEX01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\refint\20-REGEX01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\20-REGEX01.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_intermedio\20-REGEX01\obj\Debug\net7.0\ref\20-REGEX01.dll
